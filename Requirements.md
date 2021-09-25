@@ -1,5 +1,9 @@
 numpy '1.20.1'
+
 pandas '1.2.4'
+
 lightgbm '3.2.1'
+
 sklearn '0.24.1'
+
 re '2.2.1'
