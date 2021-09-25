@@ -1,5 +1,5 @@
 # Raifhack-DS
-ссылка https://apply.raifhack.ru/competition
+Ссылка на соревнование https://apply.raifhack.ru/competition
 
 Место топ19 на 19 часов 25 сентября на паблике
 
